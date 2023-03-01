@@ -1,0 +1,5 @@
+This is the example for the doc
+Here we can do addition
+Here we can do subtraction
+Here we can do multiplication
+Here we can do division
