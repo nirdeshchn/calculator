@@ -1,0 +1,13 @@
+__pycache__/
+
+
+*.env
+
+# Files included are ended using /
+node_modules/
+
+
+# Not hello.env
+!hello.env
+
+
